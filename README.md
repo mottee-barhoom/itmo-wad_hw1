@@ -16,7 +16,7 @@ To run the project locally using Flask:
    cd itmo-wad_hw1
 2. **Install Flask (if not already installed):**
    ```bash
-   pip install flask
+   pip install -r requirements.txt
 
 3. **Run the application:**
    ```bash
