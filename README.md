@@ -1,1 +1,0 @@
-# itmo-wad_hw1
