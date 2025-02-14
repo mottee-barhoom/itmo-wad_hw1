@@ -23,17 +23,18 @@ To run the project locally using Flask:
    python app.py
 
 4. **Open in Browser:**
-```bash
-Visit http://127.0.0.1:5000/ to view the profile page.
+   ```bash
+   Visit http://127.0.0.1:5000/ to view the profile page.
 
 📂 Repository Structure
-my-profile-page/
-│── static/
-│   ├── styles.css
-│   ├── profile.jpg
-│── templates/
-│   ├── index.html
-│── app.py
-│── README.md
-│── requirements.txt
-│── .gitignore
+   ```bash
+   my-profile-page/
+   │── static/
+   │   ├── styles.css
+   │   ├── profile.jpg
+   │── templates/
+   │   ├── index.html
+   │── app.py
+   │── README.md
+   │── requirements.txt
+   │── .gitignore
