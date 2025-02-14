@@ -15,16 +15,21 @@ To run the project locally using Flask:
    git clone https://github.com/mottee-barhoom/my-profile-page.git
    cd my-profile-page
 Install Flask (if not already installed):
-
-bash
-Copy
-Edit
 pip install flask
-Run the application:
 
-bash
-Copy
-Edit
+Run the application:
 python app.py
+
 Open in Browser:
 Visit http://127.0.0.1:5000/ to view the profile page.
+
+my-profile-page/
+│── static/
+│   ├── styles.css
+│   ├── profile.jpg
+│── templates/
+│   ├── index.html
+│── app.py
+│── README.md
+│── requirements.txt
+│── .gitignore
