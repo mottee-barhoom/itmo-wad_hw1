@@ -26,7 +26,7 @@ To run the project locally using Flask:
    ```bash
    Visit http://127.0.0.1:5000/ to view the profile page.
 
-📂 Repository Structure
+## 📂 Repository Structure
    ```bash
    my-profile-page/
    │── static/
