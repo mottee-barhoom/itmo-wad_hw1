@@ -12,15 +12,17 @@ To run the project locally using Flask:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mottee-barhoom/my-profile-page.git
-   cd my-profile-page
-Install Flask (if not already installed):
-pip install flask
+   git clone https://github.com/mottee-barhoom/itmo-wad_hw1.git
+   cd itmo-wad_hw1
+2. **Install Flask (if not already installed):**
+   ```bash
+   pip install flask
 
-Run the application:
-python app.py
+3. **Run the application:**
+   ```bash
+   python app.py
 
-Open in Browser:
+4. **Open in Browser:**
 Visit http://127.0.0.1:5000/ to view the profile page.
 
 my-profile-page/
